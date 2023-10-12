@@ -63,7 +63,7 @@ msgid "plugins.themes.classic.volume-abbr"
 msgstr "Årgang/Bind"
 
 msgid "plugins.themes.classic.number-abbr"
-msgstr "Nej"
+msgstr "Nr."
 
 msgid "plugins.themes.classic.options.journalSummary.enable"
 msgstr "Vis på tidsskriftets hjemmeside."
